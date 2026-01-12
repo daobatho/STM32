@@ -1,38 +1,32 @@
-# Phần chuẩn bị 
-## Tổng quan về kit STM32F103C8T6 Blue Pil
+# Phần chuẩn bị
+
+## Tổng quan về kit STM32F103C8T6 Blue Pill
 - Vi điều khiển chính: STM32F103C8T6 – lõi ARM Cortex-M3, 32-bit, tốc độ tối đa 72 MHz.
-- Bộ nhớ: 
-	- Flash: 64 KB
-	- SRAM: 20 KB
+- Bộ nhớ:
+  - Flash: 64 KB
+  - SRAM: 20 KB
 - Giao tiếp hỗ trợ: UART, SPI, I2C, USB, ADC, PWM, GPIO
 - Cổng kết nối: Micro USB, 2 hàng chân cắm (40 chân), header SWD để nạp/chạy debug
-<p align="center">
-  <img src="docs/images/stm32f103.png" alt="STM32F103C8T6 Blue Pill" width="300"/>
-</p>
+
+![STM32F103C8T6 Blue Pill](docs/images/stm32f103.png)
+
 ## Môi trường lập trình
 
-- Tải về : 
+- Tải về :
 
-### Hướng dẫn cài 
-- B1 : Tìm và chạy MDK531.exe
-- B2 : Sau khi cài xong sẽ hiện lên 1 giao diện Pack Install
+### Hướng dẫn cài
+- B1: Tìm và chạy MDK531.exe
+- B2: Sau khi cài xong sẽ hiện lên 1 giao diện Pack Install
 
-<p align="center">
-  <img src="docs/images/pack_install.png" alt="Mô tả ảnh" width="300"/>
-</p>
+![Pack Install](docs/images/pack_install.png)
 
-- có 2 cách cài Device Pack trong Keil
-	+ Cài trực tiếp trong Keil (Pack Installer) :
-		+ Mở Keil µVision : Project → Manage → Pack Installer. Hoặc nếu mới cài Keil, Pack Installer sẽ tự hiện lên
-		+ Ở khung bên trái (Devices), tìm và nhấn vào STMicroelectronics. Trong danh sách hiện ra, chọn STM32F1 Series → STM32F103 → STM32F103C8.
-		
-		<p align="center">
-		  <img src="docs/images/STMicroelectronics.png" width="300"/>
-		</p>
-		
-		+ Ở khung bên phải (Packs), tìm dòng có tên: STMicroelectronics.STM32F1xx_DFP
-		
-		<p align="center">
-		  <img src="docs/images/STM32F1xx_DFP.png" width="300"/>
-		</p>
+- Có 2 cách cài Device Pack trong Keil  
+  + Cài trực tiếp trong Keil (Pack Installer):  
+    + Mở Keil µVision: Project → Manage → Pack Installer. Hoặc nếu mới cài Keil, Pack Installer sẽ tự hiện lên  
+    + Ở khung bên trái (Devices), tìm và nhấn vào STMicroelectronics. Trong danh sách hiện ra, chọn STM32F1 Series → STM32F103 → STM32F103C8.
 
+![STMicroelectronics](docs/images/STMicroelectronics.png)
+
+    + Ở khung bên phải (Packs), tìm dòng có tên: STMicroelectronics.STM32F1xx_DFP
+
+![STM32F1xx_DFP](docs/images/STM32F1xx_DFP.png)
