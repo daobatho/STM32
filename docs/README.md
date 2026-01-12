@@ -27,7 +27,7 @@
 		+ Ở khung bên trái (Devices), tìm và nhấn vào STMicroelectronics. Trong danh sách hiện ra, chọn STM32F1 Series → STM32F103 → STM32F103C8.
 		
 		<p align="center">
-		  <img src="docs/images/STMicroelectronics.png	" width="300"/>
+		  <img src="images/STMicroelectronics.png" width="300"/>
 		</p>
 		
 		+ Ở khung bên phải (Packs), tìm dòng có tên: STMicroelectronics.STM32F1xx_DFP
