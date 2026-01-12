@@ -7,7 +7,7 @@
 - Giao tiếp hỗ trợ: UART, SPI, I2C, USB, ADC, PWM, GPIO
 - Cổng kết nối: Micro USB, 2 hàng chân cắm (40 chân), header SWD để nạp/chạy debug
 <p align="center">
-  <img src="images/stm32f103.jpg" alt="STM32F103C8T6 Blue Pill" width="500"/>
+  <img src="images/stm32f103.jpg" alt="STM32F103C8T6 Blue Pill" width="1000"/>
 </p>
 ## Môi trường lập trình
 
@@ -27,7 +27,7 @@
 		+ Ở khung bên trái (Devices), tìm và nhấn vào STMicroelectronics. Trong danh sách hiện ra, chọn STM32F1 Series → STM32F103 → STM32F103C8.
 		
 		<p align="center">
-		  <img src="images/STMicroelectronics.png" width="1000"/>
+		  <img src="images/STMicroelectronics.png" width="500"/>
 		</p>
 		
 		+ Ở khung bên phải (Packs), tìm dòng có tên: STMicroelectronics.STM32F1xx_DFP
