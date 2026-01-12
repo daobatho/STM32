@@ -18,7 +18,7 @@
 - B2 : Sau khi cài xong sẽ hiện lên 1 giao diện Pack Install
 
 <p align="center">
-  <img src="docs/images/pack_install.png" alt="Pack install" width="300"/>
+  <img src="docs/images/pack_install.png" alt="Mô tả ảnh" width="300"/>
 </p>
 
 - có 2 cách cài Device Pack trong Keil
