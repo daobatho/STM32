@@ -7,7 +7,7 @@
 - Giao tiếp hỗ trợ: UART, SPI, I2C, USB, ADC, PWM, GPIO
 - Cổng kết nối: Micro USB, 2 hàng chân cắm (40 chân), header SWD để nạp/chạy debug
 <p align="center">
-  <img src="images/stm32f103.jpg" alt="STM32F103C8T6 Blue Pill" width="300"/>
+  <img src="images/stm32f103.jpg" alt="STM32F103C8T6 Blue Pill" width="500"/>
 </p>
 ## Môi trường lập trình
 
@@ -18,7 +18,7 @@
 - B2 : Sau khi cài xong sẽ hiện lên 1 giao diện Pack Install
 
 <p align="center">
-  <img src="images/pack_install.png" alt="Mô tả ảnh" width="300"/>
+  <img src="images/pack_install.png" alt="Mô tả ảnh" width="500"/>
 </p>
 
 - có 2 cách cài Device Pack trong Keil
@@ -27,12 +27,12 @@
 		+ Ở khung bên trái (Devices), tìm và nhấn vào STMicroelectronics. Trong danh sách hiện ra, chọn STM32F1 Series → STM32F103 → STM32F103C8.
 		
 		<p align="center">
-		  <img src="images/STMicroelectronics.png" width="300"/>
+		  <img src="images/STMicroelectronics.png" width="500"/>
 		</p>
 		
 		+ Ở khung bên phải (Packs), tìm dòng có tên: STMicroelectronics.STM32F1xx_DFP
 		
 		<p align="center">
-		  <img src="images/STM32F1xx_DFP.png" width="300"/>
+		  <img src="images/STM32F1xx_DFP.png" width="500"/>
 		</p>
 
