@@ -18,7 +18,7 @@
 - B2 : Sau khi cài xong sẽ hiện lên 1 giao diện Pack Install
 
 <p align="center">
-  <img src="images/pack_install.png" alt="Mô tả ảnh" width="500"/>
+  <img src="images/pack_install.png" alt="Mô tả ảnh" width="1000"/>
 </p>
 
 - có 2 cách cài Device Pack trong Keil
@@ -27,7 +27,7 @@
 		+ Ở khung bên trái (Devices), tìm và nhấn vào STMicroelectronics. Trong danh sách hiện ra, chọn STM32F1 Series → STM32F103 → STM32F103C8.
 		
 		<p align="center">
-		  <img src="images/STMicroelectronics.png" width="500"/>
+		  <img src="images/STMicroelectronics.png" width="1000"/>
 		</p>
 		
 		+ Ở khung bên phải (Packs), tìm dòng có tên: STMicroelectronics.STM32F1xx_DFP
