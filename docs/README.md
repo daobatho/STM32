@@ -93,7 +93,7 @@ như ảnh sau
 
 ### Cấu hình Complier 
 <p align="center">
-	<img src="images/config_compiler.png" width="300"/>
+	<img src="images/config_compiler.png" width="500"/>
 </p>
 
 - Vai trò các thành phần Compiler & I/O trong Keil µVision
@@ -154,15 +154,15 @@ như ảnh sau
 ### Tạo file main.c
 - Trước khi tạo file main.c, cần kiểm tra lại debug 
 <p align="center">
-	<img src="images/config_debug.png" width="300"/>
+	<img src="images/config_debug.png" width="500"/>
 </p>
 	+ Kiểm tra nhận thiết bị chưa: -> setting 
 	<p align="center">
-	<img src="images/receive_device.png" width="300"/>
+	<img src="images/receive_device.png" width="500"/>
 	</p>
 	+ flash download:
 	<p align="center">
-	<img src="images/flash_download.png" width="300"/>
+	<img src="images/flash_download.png" width="500"/>
 	</p>
 	+ Các chức năng chính trong tab Flash Download
 
@@ -177,15 +177,15 @@ như ảnh sau
 
 - sau khi cấu hình xong 
 <p align="center">
-	<img src="images/config_finish.png" width="300"/>
+	<img src="images/config_finish.png" width="500"/>
 </p>
 - chuột phải vào mục viền đỏ -> Add new item ... để tạo file 
 <p align="center">
-	<img src="images/create_file.png" width="300"/>
+	<img src="images/create_file.png" width="500"/>
 </p>
 - Khi có mã chương trình -> build -> flash code
 
 <p align="center">
-	<img src="images/build&flash.png" width="300"/>
+	<img src="images/build&flash.png" width="500"/>
 </p>
 
