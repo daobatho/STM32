@@ -1,0 +1,54 @@
+# Build output
+*.o
+*.obj
+*.elf
+*.axf
+*.map
+*.lst
+*.out
+
+# Keil uVision intermediate files
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+
+# Compiler/IDE cache
+*.sct
+*.lnp
+*.crf
+*.htm
+*.hex
+*.bin
+
+# Debug files
+*.d
+*.dmp
+*.plg
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# VSCode / CLion / other IDE configs
+.vscode/
+.idea/
+
+# STM32CubeMX generated files (optional, nếu không muốn track)
+*.launch
+*.settings/
+*.mxproject
+*.ioc
+
+# Object and build directories
+build/
+Debug/
+Release/
+Objects/
+
+# Backup files
+*~
+*.bak
