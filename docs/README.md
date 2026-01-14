@@ -10,9 +10,19 @@
   <img src="images/stm32f103.jpg" alt="STM32F103C8T6 Blue Pill" width="1000"/>
 </p>
 
+## Thiết bị nạp và debug cho STM32
+- ST-Link V2 là gì?
+- ST-Link V2 là một thiết bị phần cứng do STMicroelectronics phát triển, dùng để nạp chương trình (flash) và debug cho các vi điều khiển STM32.
+- Nó kết nối giữa máy tính và kit STM32 thông qua giao diện SWD (Serial Wire Debug) hoặc JTAG.
+<p align="center">
+<img src="images/stlink.png" alt="ST-Link V2" width="500"/>
+</p>
+- Vì kit Blue Pill không có mạch nạp tích hợp như Nucleo, nên cần ST-Link để nạp firmware và debug.
+- cài driver cho stlink_v2 : https://www.st.com/en/development-tools/stsw-link009.html#get-software
+
 ## Môi trường lập trình
 
-- Tải về : 
+- Tải về (keil C): 
 
 ## Hướng dẫn cài 
 - B1 : Tìm và chạy MDK531.exe
