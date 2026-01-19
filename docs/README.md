@@ -18,7 +18,6 @@
 <img src="images/stlink.png" alt="ST-Link V2" width="500"/>
 </p>
 - Vì kit Blue Pill không có mạch nạp tích hợp như Nucleo, nên cần ST-Link để nạp firmware và debug.
-- Cài driver cho stlink_v2: [Download Driver STlink v2](https://www.st.com/en/development-tools/stsw-link009.html#get-software)
 
 ## Môi trường lập trình
 
