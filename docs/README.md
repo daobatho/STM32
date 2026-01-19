@@ -22,7 +22,7 @@
 
 ## Môi trường lập trình
 
-- Tải về (keil C): 
+- [Download Keil C](https://drive.google.com/drive/folders/1JvSNEg9syPMFkOoSSPgCbZ4AY4tKe_QA?usp=sharing)
 
 ## Hướng dẫn cài 
 - B1 : Tìm và chạy MDK531.exe
