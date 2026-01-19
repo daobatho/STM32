@@ -18,7 +18,7 @@
 <img src="images/stlink.png" alt="ST-Link V2" width="500"/>
 </p>
 - Vì kit Blue Pill không có mạch nạp tích hợp như Nucleo, nên cần ST-Link để nạp firmware và debug.
-- cài driver cho stlink_v2 : [Download](https://www.st.com/en/development-tools/stsw-link009.html#get-software)
+- cài driver cho stlink_v2 : [Download Driver STlink v2](https://www.st.com/en/development-tools/stsw-link009.html#get-software)
 
 ## Môi trường lập trình
 
@@ -50,7 +50,7 @@
 		-> Có đầy đủ file khởi động (startup), CMSIS, linker scrip. Keil tự động thêm các file cần thiết khi tạo project.
 		-> Sẵn sàng build và debug, có thể biên dịch, nạp firmware qua ST-Link, và debug trực tiếp
 	+ Cài Device Pack thủ công từ website Keil
-		+ Tải về : [Download](https://www.keil.arm.com/devices/stmicroelectronics-stm32f103c8/features/)
+		+ Tải về : [Download Device Pack](https://www.keil.arm.com/devices/stmicroelectronics-stm32f103c8/features/)
 		<p align="center">
 		  <img src="images/pack_wed.png" width="500"/>
 		</p>
