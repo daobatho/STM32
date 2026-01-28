@@ -3,6 +3,20 @@
 ---
 ## 1. Kiến trúc & phần cứng MCU
 
+**Pipeline**
+- Là cơ chế chia nhỏ việc thưcj thi thành nhiều gia đoạn, và cho phép các giai đoạn chạy song song trên nhiều lệnh khác nhau 
+-> kỹ thuật phỏ biến của kiến trúc RISC
+- Chia ra các giai đoạn 
+	- Fetch: nạp lệnh từ bộ nhớ chương trình (flash)
+	- Decode: Giải mã lệnh
+	- Excute: thực thi lệnh
+
+**Harvard architecture**
+- Tách riêng đường đi của chương trình và dữ liệu
+	- Chương trình (instruction) đi một đường
+	- Dữ liệu (data) đi một đường khác
+	
+**NVIC hoạt động thế nào**
 Cortex-M3: CPU core của STM32F103C8T6, thiết kế cho hiệu năng cao và tiêu thụ điện năng thấp.
 
 Pipeline: Cho phép thực thi lệnh nhanh hơn nhờ chồng lệnh.
